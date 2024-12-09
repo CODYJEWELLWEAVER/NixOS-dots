@@ -1,2 +1,2 @@
 # NixOS-dots
-My dot files for NixOS.
+My dot files and shell configurations for NixOS.
